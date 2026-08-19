@@ -1,10 +1,10 @@
-## Hey, I’m Harshit Badam.
+# Hey, I’m Harshit Badam.
 
 I’m a software engineer building reliable, high-performance systems and products from design through production. My professional experience spans full-stack development, AI and machine learning, data-intensive systems, and cloud infrastructure. I graduated from the University of Melbourne in 2025 with a Bachelor of Science and a major in Computing and Software Systems.
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/harshitbadam)
 
-## Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -79,13 +79,13 @@ I’m a software engineer building reliable, high-performance systems and produc
 </tr>
 </table>
 
-## Volunteering Work
+# Volunteering Work
 
 - **Industry Director of DSCubed (Data Science Student Society)** 2024-25
 - **Secretary of DSCubed (Data Science Student Society)** 2024
 - **Secretary and Founding Member of Google Developer Student Club at the University of Melbourne** 2023-24
 
-## Skills
+# Skills
 
 - **Languages:** `TypeScript` `JavaScript` `Python` `Swift` `SQL` `Java` `C` `C++` `R` `Haskell`
 - **Full-Stack Development:** `React` `Next.js` `Vite` `Node.js` `Express` `REST APIs` `tRPC` `Prisma` `Playwright` `Vitest`
