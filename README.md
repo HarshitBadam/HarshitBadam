@@ -29,7 +29,7 @@ I’m a software engineer building reliable, high-performance systems and produc
 <tr>
 <td valign="top">
 <h3><a href="https://github.com/HarshitBadam/table-canvas">Table Canvas</a></h3>
-<p>Visual data workbench for transforming and combining tabular data, surfacing analysis suggestions, building visualizations, and creating and exporting reports. Its local-first architecture combines DuckDB-WASM in a Web Worker with dependency-aware DAG computation, transactional undo and redo, and IndexedDB persistence.</p>
+<p>Visual data workbench for transforming and combining tabular data, surfacing suggestions for analyzing and cleaning data, building visualizations, and creating and exporting reports. Its local-first architecture combines DuckDB-WASM in a Web Worker with dependency-aware DAG computation, transactional undo and redo, and IndexedDB persistence.</p>
 <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>DuckDB-WASM</code> <code>Web Workers</code> <code>IndexedDB</code> <code>React Flow</code> <code>DAG Computation</code> <code>Local-First Architecture</code></p>
 <p><strong>Live project:</strong> <a href="https://table-canvas.vercel.app">Open Table Canvas</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/table-canvas/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
