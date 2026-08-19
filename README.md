@@ -9,7 +9,7 @@ I’m a software engineer building reliable, high-performance systems and produc
 <table>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/HarshitBadam/mactivate">Mactivate</a></h3>
+<p><strong><a href="https://github.com/HarshitBadam/mactivate">Mactivate</a></strong></p>
 <p>A macOS app for mapping physical gestures, taps, and device state to configurable shortcuts, commands, and macro actions. It turns the built-in accelerometer and gyroscope into calibrated palm-rest gestures and uses the ambient-light sensor to power Notch Hover for the Notch Panel, shipping through downloadable macOS releases.</p>
 <p><code>Swift</code> <code>macOS</code> <code>SwiftUI</code> <code>AppKit</code> <code>IOKit</code> <code>Accelerometer & Gyroscope</code> <code>Ambient Light Sensor</code> <code>Signal Processing</code> <code>Sensor Processing</code> <code>Gesture Recognition</code></p>
 <p><strong>Download:</strong> <a href="https://github.com/HarshitBadam/mactivate/releases/latest">Get Mactivate for macOS</a></p>
@@ -28,7 +28,7 @@ I’m a software engineer building reliable, high-performance systems and produc
 <table>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/HarshitBadam/table-canvas">Table Canvas</a></h3>
+<p><strong><a href="https://github.com/HarshitBadam/table-canvas">Table Canvas</a></strong></p>
 <p>Visual data workbench for transforming and combining tabular data, surfacing analysis suggestions, building visualizations, and creating and exporting reports. Its local-first architecture combines DuckDB-WASM in a Web Worker with dependency-aware DAG computation, transactional undo and redo, and IndexedDB persistence.</p>
 <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>DuckDB-WASM</code> <code>Web Workers</code> <code>IndexedDB</code> <code>React Flow</code> <code>DAG Computation</code> <code>Local-First Architecture</code></p>
 <p><strong>Live project:</strong> <a href="https://table-canvas.vercel.app">Open Table Canvas</a></p>
@@ -46,7 +46,7 @@ I’m a software engineer building reliable, high-performance systems and produc
 <table>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/HarshitBadam/trade-intel">TradeIntel</a></h3>
+<p><strong><a href="https://github.com/HarshitBadam/trade-intel">TradeIntel</a></strong></p>
 <p>TradeIntel is a stock research dashboard that unifies price history, trading volume, market news, sentiment, and popularity in one view. Search any ticker to explore interactive trends, trace sentiment to its source articles, compare related companies, and review the latest conclusion, while StockSage answers deeper questions using live market data, stored evidence, web research, ranking tools, and cited sources.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>LLM Orchestration</code> <code>RAG Pipelines</code> <code>Tool Calling</code> <code>Citation Validation</code> <code>QStash</code> <code>Redis</code> <code>Astra DB</code></p>
 <p><strong>Live project:</strong> <a href="https://trade-intel-app.vercel.app">Open TradeIntel</a></p>
@@ -65,7 +65,7 @@ I’m a software engineer building reliable, high-performance systems and produc
 <table>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/HarshitBadam/airtable-engine">Airtable Engine</a></h3>
+<p><strong><a href="https://github.com/HarshitBadam/airtable-engine">Airtable Engine</a></strong></p>
 <p>High-performance spreadsheet engine built for scale across 1M+ row tables. Its tiered query paths use indexed keyset seeks, precomputed per-view ranks, and cursor-anchored jumps. <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/benchmark-results/latency-results.md">Local warm-cache database benchmarks</a> reached sub-millisecond natural-order reads and sub-10 ms midpoint row writes at one million rows.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>JSONB</code> <code>tRPC</code> <code>Prisma</code> <code>Keyset Pagination</code> <code>TanStack Virtual</code></p>
 <p><strong>Live project:</strong> <a href="https://airtable-engine.vercel.app">Open Airtable Engine</a></p>
