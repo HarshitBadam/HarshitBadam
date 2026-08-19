@@ -1,10 +1,10 @@
-## Hey, I’m Harshit Badam.
+### Hey, I’m Harshit Badam.
 
 I’m a software engineer building reliable, high-performance systems and products from design through production. My professional experience spans full-stack development, AI and machine learning, data-intensive systems, and cloud infrastructure. I graduated from the University of Melbourne in 2025 with a Bachelor of Science and a major in Computing and Software Systems.
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/harshitbadam)
 
-## Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -16,8 +16,8 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md">View the product walkthrough</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/mactivate">View the source</a></p>
 <p align="center">
-<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/tap-and-gesture-mapping.png" width="49%" alt="Mactivate tap and gesture mapping interface"></a>
-<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/notch-panel.png" width="49%" alt="Mactivate Notch Panel"></a>
+<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/tap-and-gesture-mapping.png" height="160" alt="Mactivate tap and gesture mapping interface"></a>
+<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/notch-panel.png" height="160" alt="Mactivate Notch Panel"></a>
 </p>
 </td>
 </tr>
@@ -53,8 +53,8 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/trade-intel">View the source</a></p>
 <p align="center">
-<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/details.png" width="49%" alt="TradeIntel stock details dashboard"></a>
-<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/chat.png" width="49%" alt="StockSage evidence-grounded stock research answer with citations"></a>
+<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/details.png" height="180" alt="TradeIntel stock details dashboard"></a>
+<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/chat.png" height="180" alt="StockSage evidence-grounded stock research answer with citations"></a>
 </p>
 </td>
 </tr>
@@ -79,13 +79,13 @@ I’m a software engineer building reliable, high-performance systems and produc
 </tr>
 </table>
 
-## Volunteering Work
+### Volunteering Work
 
 - **Industry Director of DSCubed (Data Science Student Society)** 2024-25
 - **Secretary of DSCubed (Data Science Student Society)** 2024
 - **Secretary and Founding Member of Google Developer Student Club at the University of Melbourne** 2023-24
 
-## Skills
+### Skills
 
 - **Languages:** `TypeScript` `JavaScript` `Python` `Swift` `SQL` `Java` `C` `C++` `R` `Haskell`
 - **Full Stack:** `React` `Next.js` `Node.js` `Express` `REST APIs` `tRPC` `Playwright` `Vitest`
