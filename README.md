@@ -4,7 +4,6 @@ I’m a software engineer building reliable, high-performance systems and produc
 
 > Connect with me on [LinkedIn](https://www.linkedin.com/in/harshitbadam)
 
-
 ## Featured Projects
 
 <table>
