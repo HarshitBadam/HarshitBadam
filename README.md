@@ -1,8 +1,8 @@
-# Hey, I’m Harshit Badam.
+## Hey, I’m Harshit Badam.
 
 I’m a software engineer building reliable, high-performance systems and products from design through production. My professional experience spans full-stack development, AI and machine learning, data-intensive systems, and cloud infrastructure. I graduated from the University of Melbourne in 2025 with a Bachelor of Science and a major in Computing and Software Systems.
 
-> [Connect with me on LinkedIn](https://www.linkedin.com/in/harshitbadam)
+> Connect with me on [LinkedIn](https://www.linkedin.com/in/harshitbadam)
 
 ## Featured Projects
 
@@ -15,7 +15,10 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p><strong>Download:</strong> <a href="https://github.com/HarshitBadam/mactivate/releases/latest">Get Mactivate for macOS</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md">View the product walkthrough</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/mactivate">View the source</a></p>
-<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/tap-and-gesture-mapping.png" width="100%" alt="Mactivate tap and gesture mapping interface"></a>
+<p align="center">
+<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/tap-and-gesture-mapping.png" width="49%" alt="Mactivate tap and gesture mapping interface"></a>
+<a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/notch-panel.png" width="49%" alt="Mactivate Notch Panel"></a>
+</p>
 </td>
 </tr>
 </table>
@@ -31,7 +34,9 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p><strong>Live project:</strong> <a href="https://table-canvas.vercel.app">Open Table Canvas</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/table-canvas/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/table-canvas">View the source</a></p>
-<a href="https://github.com/HarshitBadam/table-canvas/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/table-canvas/main/docs/screenshots/canvas-pipeline.png" width="100%" alt="Table Canvas visual data pipeline"></a>
+<p align="center">
+<a href="https://github.com/HarshitBadam/table-canvas/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/table-canvas/main/docs/screenshots/canvas-pipeline.png" width="88%" alt="Table Canvas visual data pipeline"></a>
+</p>
 </td>
 </tr>
 </table>
@@ -47,7 +52,10 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p><strong>Live project:</strong> <a href="https://trade-intel-app.vercel.app">Open TradeIntel</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/trade-intel">View the source</a></p>
-<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/chat.png" width="100%" alt="StockSage evidence-grounded stock research answer with citations"></a>
+<p align="center">
+<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/details.png" width="49%" alt="TradeIntel stock details dashboard"></a>
+<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/chat.png" width="49%" alt="StockSage evidence-grounded stock research answer with citations"></a>
+</p>
 </td>
 </tr>
 </table>
@@ -63,7 +71,10 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p><strong>Live project:</strong> <a href="https://airtable-engine.vercel.app">Open Airtable Engine</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/airtable-engine">View the source</a></p>
-<a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/airtable-engine/main/docs/screenshots/grid-at-scale.png" width="100%" alt="Airtable Engine displaying more than one million records"></a>
+<p align="center">
+<a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/airtable-engine/main/docs/screenshots/nested-filters.png" width="49%" alt="Airtable Engine nested filters"></a>
+<a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/airtable-engine/main/docs/screenshots/saved-view-sort.png" width="49%" alt="Airtable Engine saved view sorting"></a>
+</p>
 </td>
 </tr>
 </table>
