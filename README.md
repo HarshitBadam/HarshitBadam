@@ -21,11 +21,6 @@ I’m a software engineer building reliable, high-performance systems and produc
 </p>
 </td>
 </tr>
-</table>
-
-<br>
-
-<table>
 <tr>
 <td valign="top">
 <p><strong><a href="https://github.com/HarshitBadam/table-canvas">Table Canvas</a></strong></p>
@@ -39,11 +34,6 @@ I’m a software engineer building reliable, high-performance systems and produc
 </p>
 </td>
 </tr>
-</table>
-
-<br>
-
-<table>
 <tr>
 <td valign="top">
 <p><strong><a href="https://github.com/HarshitBadam/trade-intel">TradeIntel</a></strong></p>
@@ -58,11 +48,6 @@ I’m a software engineer building reliable, high-performance systems and produc
 </p>
 </td>
 </tr>
-</table>
-
-<br>
-
-<table>
 <tr>
 <td valign="top">
 <p><strong><a href="https://github.com/HarshitBadam/airtable-engine">Airtable Engine</a></strong></p>
