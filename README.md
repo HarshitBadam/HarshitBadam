@@ -6,7 +6,10 @@ I’m a software engineer building reliable, high-performance systems and produc
 
 ## Featured Projects
 
-<p><strong><a href="https://github.com/HarshitBadam/mactivate">Mactivate</a></strong></p>
+<table>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/HarshitBadam/mactivate">Mactivate</a></h3>
 <p>A macOS app for mapping physical gestures, taps, and device state to configurable shortcuts, commands, and macro actions. It turns the built-in accelerometer and gyroscope into calibrated palm-rest gestures and uses the ambient-light sensor to power Notch Hover for the Notch Panel, shipping through downloadable macOS releases.</p>
 <p><code>Swift</code> <code>macOS</code> <code>SwiftUI</code> <code>AppKit</code> <code>IOKit</code> <code>Accelerometer & Gyroscope</code> <code>Ambient Light Sensor</code> <code>Signal Processing</code> <code>Sensor Processing</code> <code>Gesture Recognition</code></p>
 <p><strong>Download:</strong> <a href="https://github.com/HarshitBadam/mactivate/releases/latest">Get Mactivate for macOS</a></p>
@@ -16,10 +19,16 @@ I’m a software engineer building reliable, high-performance systems and produc
 <a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/tap-and-gesture-mapping.png" width="39%" alt="Mactivate tap and gesture mapping interface"></a>
 <a href="https://github.com/HarshitBadam/mactivate/blob/main/docs/walkthrough.md"><img src="https://raw.githubusercontent.com/HarshitBadam/mactivate/main/docs/assets/walkthrough/notch-panel.png" width="60%" alt="Mactivate Notch Panel"></a>
 </p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<p><strong><a href="https://github.com/HarshitBadam/table-canvas">Table Canvas</a></strong></p>
+<table>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/HarshitBadam/table-canvas">Table Canvas</a></h3>
 <p>Visual data workbench for transforming and combining tabular data, surfacing analysis suggestions, building visualizations, and creating and exporting reports. Its local-first architecture combines DuckDB-WASM in a Web Worker with dependency-aware DAG computation, transactional undo and redo, and IndexedDB persistence.</p>
 <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>DuckDB-WASM</code> <code>Web Workers</code> <code>IndexedDB</code> <code>React Flow</code> <code>DAG Computation</code> <code>Local-First Architecture</code></p>
 <p><strong>Live project:</strong> <a href="https://table-canvas.vercel.app">Open Table Canvas</a></p>
@@ -28,10 +37,16 @@ I’m a software engineer building reliable, high-performance systems and produc
 <p align="center">
 <a href="https://github.com/HarshitBadam/table-canvas/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/table-canvas/main/docs/screenshots/canvas-pipeline.png" width="88%" alt="Table Canvas visual data pipeline"></a>
 </p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<p><strong><a href="https://github.com/HarshitBadam/trade-intel">TradeIntel</a></strong></p>
+<table>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/HarshitBadam/trade-intel">TradeIntel</a></h3>
 <p>TradeIntel is a stock research dashboard that unifies price history, trading volume, market news, sentiment, and popularity in one view. Search any ticker to explore interactive trends, trace sentiment to its source articles, compare related companies, and review the latest conclusion, while StockSage answers deeper questions using live market data, stored evidence, web research, ranking tools, and cited sources.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>LLM Orchestration</code> <code>RAG Pipelines</code> <code>Tool Calling</code> <code>Citation Validation</code> <code>QStash</code> <code>Redis</code> <code>Astra DB</code></p>
 <p><strong>Live project:</strong> <a href="https://trade-intel-app.vercel.app">Open TradeIntel</a></p>
@@ -41,10 +56,16 @@ I’m a software engineer building reliable, high-performance systems and produc
 <a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/details.png" width="38%" alt="TradeIntel stock details dashboard"></a>
 <a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/chat.png" width="61%" alt="StockSage evidence-grounded stock research answer with citations"></a>
 </p>
+</td>
+</tr>
+</table>
 
 <br>
 
-<p><strong><a href="https://github.com/HarshitBadam/airtable-engine">Airtable Engine</a></strong></p>
+<table>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/HarshitBadam/airtable-engine">Airtable Engine</a></h3>
 <p>High-performance spreadsheet engine built for scale across 1M+ row tables. Its tiered query paths use indexed keyset seeks, precomputed per-view ranks, and cursor-anchored jumps. <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/benchmark-results/latency-results.md">Local warm-cache database benchmarks</a> reached sub-millisecond natural-order reads and sub-10 ms midpoint row writes at one million rows.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>JSONB</code> <code>tRPC</code> <code>Prisma</code> <code>Keyset Pagination</code> <code>TanStack Virtual</code></p>
 <p><strong>Live project:</strong> <a href="https://airtable-engine.vercel.app">Open Airtable Engine</a></p>
@@ -54,6 +75,9 @@ I’m a software engineer building reliable, high-performance systems and produc
 <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/airtable-engine/main/docs/screenshots/nested-filters.png" width="49%" alt="Airtable Engine nested filters"></a>
 <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/airtable-engine/main/docs/screenshots/saved-view-sort.png" width="49%" alt="Airtable Engine saved view sorting"></a>
 </p>
+</td>
+</tr>
+</table>
 
 ## Volunteering Work
 
