@@ -46,14 +46,14 @@ I’m a software engineer building reliable, high-performance systems and produc
 <table>
 <tr>
 <td valign="top">
-<h3><a href="https://github.com/HarshitBadam/trade-intel">TradeIntel</a></h3>
-<p>TradeIntel is a stock research dashboard that unifies price history, trading volume, market news, sentiment, and popularity in one view. Search any ticker to explore interactive trends, trace sentiment to its source articles, compare related companies, and review the latest conclusion, while StockSage answers deeper questions using live market data, stored evidence, web research, ranking tools, and cited sources.</p>
+<h3><a href="https://github.com/HarshitBadam/trade-intel">Trade Intel</a></h3>
+<p>Trade Intel is a stock research dashboard that unifies price history, trading volume, market news, sentiment, and popularity in one view. Search any ticker to explore interactive trends, trace sentiment to its source articles, compare related companies, and review the latest conclusion, while StockSage answers deeper questions using live market data, stored evidence, web research, ranking tools, and cited sources.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>LLM Orchestration</code> <code>RAG Pipelines</code> <code>Tool Calling</code> <code>Citation Validation</code> <code>QStash</code> <code>Redis</code> <code>Astra DB</code></p>
-<p><strong>Live project:</strong> <a href="https://trade-intel-app.vercel.app">Open TradeIntel</a></p>
+<p><strong>Live project:</strong> <a href="https://trade-intel-app.vercel.app">Open Trade Intel</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
 <p><strong>Project repository:</strong> <a href="https://github.com/HarshitBadam/trade-intel">View the source</a></p>
 <p align="center">
-<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/details.png" width="38%" alt="TradeIntel stock details dashboard"></a>
+<a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/details.png" width="38%" alt="Trade Intel stock details dashboard"></a>
 <a href="https://github.com/HarshitBadam/trade-intel/blob/main/docs/screenshots.md"><img src="https://raw.githubusercontent.com/HarshitBadam/trade-intel/main/docs/screenshots/chat.png" width="61%" alt="StockSage evidence-grounded stock research answer with citations"></a>
 </p>
 </td>
@@ -66,7 +66,7 @@ I’m a software engineer building reliable, high-performance systems and produc
 <tr>
 <td valign="top">
 <h3><a href="https://github.com/HarshitBadam/airtable-engine">Airtable Engine</a></h3>
-<p>High-performance spreadsheet engine built for scale across 1M+ row tables. Its tiered query paths use indexed keyset seeks, precomputed per-view ranks, and cursor-anchored jumps. <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/benchmark-results/latency-results.md">Local warm-cache database benchmarks</a> reached sub-millisecond natural-order reads and sub-10 ms midpoint row writes at one million rows.</p>
+<p>High-performance spreadsheet engine built for scale. Its virtualized grid pairs with tiered query paths using indexed keyset seeks, precomputed per-view ranks, and cursor-anchored jumps. <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/benchmark-results/latency-results.md">Benchmarks</a> show sub-millisecond read latency and millisecond row-write latency at million-row scale.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>JSONB</code> <code>tRPC</code> <code>Prisma</code> <code>Keyset Pagination</code> <code>TanStack Virtual</code></p>
 <p><strong>Live project:</strong> <a href="https://airtable-engine.vercel.app">Open Airtable Engine</a></p>
 <p><strong>Project screenshots:</strong> <a href="https://github.com/HarshitBadam/airtable-engine/blob/main/docs/screenshots.md">View the screenshot tour</a></p>
